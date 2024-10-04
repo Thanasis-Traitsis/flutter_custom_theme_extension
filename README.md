@@ -242,7 +242,7 @@ class CustomContainer extends StatelessWidget {
 }
 ```
 
-When you implement this widget in your app, you'll see the theme come to life, automatically adapting to any theme changes you make. For now, let's enjoy our beautiful Bulbasaur card that we created with such quality code.
+When you implement this widget in your app, you'll see the theme come to life, automatically adapting to any theme changes you make. For now, let's enjoy our beautiful Bulbasaur card that we created with such quality code. <br>
 <img src="https://github.com/Thanasis-Traitsis/flutter_custom_theme_extension/blob/main/assets/home_screen.png?raw=true" alt="Home Screen" width="300" height="auto">
 
 ## Conclusion
