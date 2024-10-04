@@ -243,7 +243,8 @@ class CustomContainer extends StatelessWidget {
 ```
 
 When you implement this widget in your app, you'll see the theme come to life, automatically adapting to any theme changes you make. For now, let's enjoy our beautiful Bulbasaur card that we created with such quality code.
-![Home Screen](https://github.com/Thanasis-Traitsis/flutter_custom_theme_extension/blob/main/assets/home_screen.png?raw=true)
+<img src="https://github.com/Thanasis-Traitsis/flutter_custom_theme_extension/blob/main/assets/home_screen.png?raw=true" alt="Home Screen" width="300" height="auto">
+
 ## Conclusion
 
 And there you have it! We've unlocked a new level of customisation that goes much beyond basic color schemes by utilising Flutter's ThemeExtension. This approach enables us to create rich, deeply customizable themes that can hold any design property we need - from padding and border radius to complex color palettes and more.
