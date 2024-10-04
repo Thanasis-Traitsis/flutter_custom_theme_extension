@@ -1,5 +1,5 @@
 # Mastering Custom Container Themes in Flutter
-
+![Header](https://github.com/Thanasis-Traitsis/flutter_custom_theme_extension/blob/main/assets/Mastering%20Custom%20Container%20Themes%20in%20Flutter.png?raw=true)
 Well hello there Flutter people. It's been a while since my last blog post, but I'm back with something very interesting that will level up your Flutter applications. Today's subject is **Custom Container Themes**, a powerful way to manage consistent, reusable styling throughout your app.
 
 Ever found yourself copying and pasting container styles throughout your app? Sure, creating a Stateless Widget might seem like a quick and easy fix, but there's a more clean, maintainable solution hiding in Flutter's theming system.
@@ -243,7 +243,7 @@ class CustomContainer extends StatelessWidget {
 ```
 
 When you implement this widget in your app, you'll see the theme come to life, automatically adapting to any theme changes you make. For now, let's enjoy our beautiful Bulbasaur card that we created with such quality code.
-
+![Home Screen](https://github.com/Thanasis-Traitsis/flutter_custom_theme_extension/blob/main/assets/home_screen.png?raw=true)
 ## Conclusion
 
 And there you have it! We've unlocked a new level of customisation that goes much beyond basic color schemes by utilising Flutter's ThemeExtension. This approach enables us to create rich, deeply customizable themes that can hold any design property we need - from padding and border radius to complex color palettes and more.
@@ -252,7 +252,7 @@ The next time you find yourself reaching for hard-coded styles or repetitive des
 
 If you enjoyed this article and want to stay connected, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thanasis-traitsis/).
 
-If you'd like to dive deeper into the code and contribute to the project, visit the repository on [GitHub](https://github.com/Thanasis-Traitsis/flutter_theme_switch_bloc).
+If you'd like to dive deeper into the code and contribute to the project, visit the repository on [GitHub](https://github.com/Thanasis-Traitsis/flutter_custom_theme_extension).
 
 Was this guide helpful? Consider buying me a coffee!☕️ Your contribution goes a long way in fuelling future content and projects. [Buy Me a Coffee](https://www.buymeacoffee.com/thanasis_traitsis).
 
