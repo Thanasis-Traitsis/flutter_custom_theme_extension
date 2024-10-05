@@ -1,6 +1,6 @@
 # Mastering Custom Widget Themes in Flutter
 ![Header](https://github.com/Thanasis-Traitsis/flutter_custom_theme_extension/blob/main/assets/Mastering%20Custom%20Widget%20Themes%20in%20Flutter.png?raw=true)
-Well hello there Flutter people. It's been a while since my last blog post, but I'm back with something very interesting that will level up your Flutter applications. Today's subject is **Custom Container Themes**, a powerful way to manage consistent, reusable styling throughout your app.
+Well hello there Flutter people. It's been a while since my last blog post, but I'm back with something very interesting that will level up your Flutter applications. Today's subject is **Custom Widget Themes**, a powerful way to manage consistent, reusable styling throughout your app.
 
 Ever found yourself copying and pasting container styles throughout your app? Sure, creating a Stateless Widget might seem like a quick and easy fix, but there's a more clean, maintainable solution hiding in Flutter's theming system.
 
